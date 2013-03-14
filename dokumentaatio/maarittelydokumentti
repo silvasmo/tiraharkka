@@ -1,0 +1,20 @@
+Määrittelydokumentti
+
+1. Mitä algoritmeja ja tietorakenteita toteutat työssäsi?
+
+Toteutan ainakin linkitetyn listan, sekä sekä algoritmejä polunetsintään. 
+
+
+2. Mitä ongelmaa ratkaiset ja miksi valitsit kyseiset algoritmit/tietorakenteet?
+
+Pyrin ratkaisemaan lyhimmän tai nopeimman polun verkon kahden solmun välillä. Aion vertailla eri algoritmien vaatimaa aikaa empiirisesti.
+
+
+3. Mitä syötteitä ohjelma saa ja miten näitä käytetään?
+
+Ohjelma saa syötteenä verkon ja pisteet joiden välinen lyhin polku pitää etsiä.
+
+
+4. Tavoitteena olevat aika- ja tilavaativuudet (m.m. O-analyysi)
+
+
